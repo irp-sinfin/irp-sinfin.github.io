@@ -14,10 +14,11 @@ header_pages:
   - research.md
 
 # Configuración de posteos en la Home
+# Configuración de posteos en la Home
 paginate: 10
-paginate_path: "/"
+paginate_path: "/page:num/" # Esto es mejor para evitar conflictos
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-paginate
+  - jekyll-paginate # Asegurate de que esta línea esté aquí
