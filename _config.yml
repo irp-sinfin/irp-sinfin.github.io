@@ -1,3 +1,23 @@
-url: 'http://www.irp-sinfin.org'
-name: ''
-description: 'International Research Project SINFIN'
+title: "International Research Project SINFIN"
+description: "Systèmes, vérIfication, iNformatique Fondamentale, logIque, laNgages"
+url: "https://irp-sinfin.github.io"
+baseurl: ""
+
+remote_theme: jekyll/minima
+
+# Orden de las pestañas en el menú
+header_pages:
+  - history.md
+  - co-publications.md
+  - bilateral-projects.md
+  - organization.md
+  - sample-page-2.md
+
+# Configuración de posteos en la Home
+paginate: 10
+paginate_path: "/"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
