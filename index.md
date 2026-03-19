@@ -1,5 +1,5 @@
 ---
-layout: home 
+layout: default 
 title: "SINFIN"
 paginate: 10
 ---
@@ -8,7 +8,7 @@ paginate: 10
 ### Sistemas, lógica, lenguajes, fundamentos de la computación, verificación
 
 <!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
+{% for post in site.posts %}
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
     <span class="date">{{ post.date }}</span>
