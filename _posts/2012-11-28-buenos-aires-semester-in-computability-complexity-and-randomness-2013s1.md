@@ -1,0 +1,16 @@
+---
+id: 436
+title: 'Buenos Aires Semester in Computability, Complexity and Randomness &#8212; 2013S1'
+date: '2012-11-28T13:46:23-03:00'
+author: 'Editorial team'
+excerpt: ''
+layout: post
+guid: 'http://www.infinis.org/infinis/?p=436'
+permalink: '/?p=436'
+categories:
+    - Events
+    - news
+format: false
+---
+
+Buenos Aires Semester in Computability Complexity and Randomness, January to June 2013 The Semester will take place at the new Polo Cientifico Tecnológico (ex de Bodegas Giol). INFINIS parraine et certains de ses membres participent à diverses activités, notamment le comité, l'organisation scientifique locale et chercheurs invités. Les organisateurs locaux: Verónica Becher y Santiago Figueira. Plus de nouvelles ici: http://www-2.dc.uba.ar/ccr/Semestre sur la Calculabilité, Complexité et Aléatoire à Buenos Aires, janvier, de Janvier à Juin 2013. Le semestre sera basé dans le nouveau Polo Cientifico Tecnológico (ex de Bodegas Giol). INFINIS es auspiciante, y tiene miembros en cada aspecto del Semestre: en comité Cientifico, en la organización y en los investigadores visitantes. Organizan localmente Verónica Becher y Santiago Figueira. Mas novedades en : http://www-2.dc.uba.ar/ccr/Buenos Aires Semester in Computability Complexity and Randomness, enero a junio 2013 El Semestre tendrá sede en el nuevo Polo Cientifico Tecnológico (ex de Bodegas Giol). INFINIS es auspiciante, y tiene miembros en cada aspecto del Semestre: en comité Cientifico, en la organización y en los investigadores visitantes. Organizan localmente Verónica Becher y Santiago Figueira. Más novedades en : http://www-2.dc.uba.ar/ccr/

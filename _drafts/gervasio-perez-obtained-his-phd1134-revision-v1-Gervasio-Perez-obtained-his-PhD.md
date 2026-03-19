@@ -1,0 +1,12 @@
+---
+id: 1135
+title: 'Gervasio Perez obtained his PhD'
+date: '2018-05-15T12:06:47-03:00'
+author: 'Alejandro Díaz-Caro'
+excerpt: ''
+layout: revision
+guid: 'http://infinis.org/?p=1135'
+permalink: '/?p=1135'
+---
+
+Gervasio Perez obtained his PhD in Computer Science on April 18, 2018, at Universidad de Buenos Aires under the direction of Sergio Yovine (UBA/CONICET). Title: Specification, design and implementation of a pattern-based concurrent programming environment Abstract: Developing correct and efficient parallel software in a cost-effective way is challenging. There are a number of pitfalls that lead to incorrect behaviors and poor performance. Pattern-based software design could help achieving correctness and scalability. However, it has several drawbacks: (a) most patterns are not broadly supported by current parallel-programming models and languages; (b) most often than not getting the appropriate pattern right is difficult; and (c) most patterns do not compose easily, thus making it hard to deal with heterogeneous parallelism. As an attempt to overcoming these issues, the contribution of this thesis is threefold. First, it proposes a parallel-programming pattern, called PCR \[43\], consisting of producers, consumers, and reducers which operate concurrently on data sets. To favor correctness, the semantics of PCRs is mathematically defined in terms of the formalism FXML . PCRs are shown to be composable and to seamlessly subsume other well-known parallel-programming patterns, thus providing a framework for heterogeneous designs. Second, it formally shows how the PCR pattern can be correctly implemented in terms of a more concrete parallel execution model. Third, it proposes a platform-agnostic C++ template library to express PCRs . It briefly presents a prototype compiler based on C++ template re-writing which automatically generates distributed implementations relying on the Intel Concurrent Collections C++ library. The programming and code-generation suite is illustrated through several case studies. Overall, the proposed framework provides means to enhance parallel software quality and productivity through an automated methodology based on high-level, platform-independent programming constructs, and a compiling infrastructure to generate portable, executable code.

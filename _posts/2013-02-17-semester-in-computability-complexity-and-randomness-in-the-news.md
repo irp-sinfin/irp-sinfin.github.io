@@ -1,0 +1,15 @@
+---
+id: 459
+title: 'Semester in Computability, Complexity and Randomness in the news!'
+date: '2013-02-17T18:18:10-03:00'
+author: 'Editorial team'
+excerpt: ''
+layout: post
+guid: 'http://www.infinis.org/infinis/?p=459'
+permalink: '/?p=459'
+categories:
+    - news
+format: false
+---
+
+The inaugural ceremony of the Semester in Computability, Complexity and Randomness by MinCyT: http://www.mincyt.gov.ar/noticias/noticias\_detalles.php?id\_noticia=1250 http://www.mincyt.gov.ar/multimedia/archivo/archivos/13-01-22\_Barayao\_apertura\_semestre\_computaciyn.pdf La cérémonie d'ouverture du semestre de la calculabilité, complexité et aléatoire par MINCYT: http://www.mincyt.gov.ar/noticias/noticias\_detalles.php?id\_noticia=1250 http://www.mincyt.gov.ar/multimedia/archivo/archivos/13-01-22\_Barayao\_apertura\_semestre\_computaciyn.pdf El acto de apertura del Semestre en Computabilidad, Complejidad y Aleatoriedad por el MinCyT: http://www.mincyt.gov.ar/noticias/noticias\_detalles.php?id\_noticia=1250 http://www.mincyt.gov.ar/multimedia/archivo/archivos/13-01-22\_Barayao\_apertura\_semestre\_computaciyn.pdf

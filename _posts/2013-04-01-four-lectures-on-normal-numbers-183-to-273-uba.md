@@ -1,0 +1,15 @@
+---
+id: 470
+title: 'Four Lectures on Normal Numbers &#8212; 18/3 to 27/3 &#8212; UBA'
+date: '2013-04-01T18:18:54-03:00'
+author: 'Editorial team'
+excerpt: ''
+layout: post
+guid: 'http://www.infinis.org/infinis/?p=470'
+permalink: '/?p=470'
+categories:
+    - news
+format: false
+---
+
+March 18 to March 27, 2013. Part of the Buenos Aires Semester in Computability Complexity and Randomness, Four Lectures on Normal Numbers In these lectures we present selected material on normal numbers including classical theorems as well as our most recent results. No previous knowledge of the subject is needed to follow the talks. Lecture 1: Equivalent definitions of normality and selected theorems, by Verónica Becher Lecture 2: Normality and incompressibility by finite automata, by Pablo Ariel Heiber. Lecture 3: Absolute normality and normality in different bases, by Verónica Becher and Theodore Slaman. Lecture 4: Normality and polynomial time martingales, by Santiago Figueira. Slides: http://www.dc.uba.ar/people/ccr/talks/BsAs\_normality.pdf March 18 to March 27, 2013. Part of the Buenos Aires Semester in Computability Complexity and Randomness, Four Lectures on Normal Numbers In these lectures we present selected material on normal numbers including classical theorems as well as our most recent results. No previous knowledge of the subject is needed to follow the talks. Lecture 1: Equivalent definitions of normality and selected theorems, by Verónica Becher Lecture 2: Normality and incompressibility by finite automata, by Pablo Ariel Heiber. Lecture 3: Absolute normality and normality in different bases, by Verónica Becher and Theodore Slaman. Lecture 4: Normality and polynomial time martingales, by Santiago Figueira. Slides: http://www.dc.uba.ar/people/ccr/talks/BsAs\_normality.pdf March 18 to March 27, 2013. Part of the Buenos Aires Semester in Computability Complexity and Randomness, Four Lectures on Normal Numbers In these lectures we present selected material on normal numbers including classical theorems as well as our most recent results. No previous knowledge of the subject is needed to follow the talks. Lecture 1: Equivalent definitions of normality and selected theorems, by Verónica Becher Lecture 2: Normality and incompressibility by finite automata, by Pablo Ariel Heiber. Lecture 3: Absolute normality and normality in different bases, by Verónica Becher and Theodore Slaman. Lecture 4: Normality and polynomial time martingales, by Santiago Figueira. Slides: http://www.dc.uba.ar/people/ccr/talks/BsAs\_normality.pdf
