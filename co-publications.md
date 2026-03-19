@@ -1,27 +1,14 @@
 ---
-id: 939
-title: Co-publications
-date: '2017-08-27T12:58:44-03:00'
-author: 'Editorial team'
-excerpt: ''
 layout: page
-guid: 'http://www.infinis.org/?page_id=939'
-snap_MYURL:
-    - ''
-snapEdIT:
-    - '1'
-snapTW:
-    - 's:187:"a:1:{i:0;a:7:{s:2:"do";s:1:"1";s:9:"msgFormat";s:15:"%TITLE% - %URL%";s:8:"attchImg";s:1:"0";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";}}";'
-footnotes:
-    - ''
+title: "Co-publications"
+permalink: /co-publications/
 ---
-
 In this page we detail only the co-publications, that is, publications co-authored by both Argentinean and French members of SINFIN (and previously, INFINIS). **Information for members:** Please acknowledge the IRP in your publications with the following text «This work was partially/fully funded by the French-Argentinian IRP SINFIN.» **Book chapters**
 
 1. Verónica Becher and Olivier Carton.[ Normal numbers and computer science](https://doi.org/10.1007/978-3-319-69152-7_7). Chapter of Sequences, Groups and Number Theory, ed: Valérie Berthé and Michel Rigó. Trends in Mathematics Series. Birkhauser/Springer, 2018.
 2. Eda Cesaratto and Brigitte Vallée.[ Pseudo-randomness of a random Kronecker sequence. An instance of dynamical analysis](http://www.cambridge.org/ar/academic/subjects/mathematics/discrete-mathematics-information-theory-and-coding/combinatorics-words-and-symbolic-dynamics?format=HB&isbn=9781107077027). Chapitre 11 (pp 405-448) in Combinatorics, Words and Symbolic Dynamics, Encyclopedia of mathematics and its applications 159, ed: M. Rigo et V. Berthé. Cambridge University Press, 2016.
 3. Carlos Areces, Pascal Fontaine, and Stephan Merz.[ Modal Satisfiability via SMT Solving](https://doi.org/10.1007/978-3-319-15545-6_5). In R. De Nicola, and R. Hennicker, editors, Software, Services, and Systems, LNCS 8950, pp. 30-45. Springer International Publishing, 2015.
-4. Philippe Clauss, Diego Gabervetsky, Vincent Loechner, and Sven Verdoolaege.[ Polyhedral Techniques for Parametric Memory Requirement Estimation](https://doi.org/10.1201/b11418-5). Chapter of Energy Aware Memory Management for Embedded Multimedia Systems : a Computer-Aided Design Approach, ed: Florin Balasa. Chapman &amp; Hall/CRC Press, 2011.
+4. Philippe Clauss, Diego Gabervetsky, Vincent Loechner, and Sven Verdoolaege.[ Polyhedral Techniques for Parametric Memory Requirement Estimation](https://doi.org/10.1201/b11418-5). Chapter of Energy Aware Memory Management for Embedded Multimedia Systems : a Computer-Aided Design Approach, ed: Florin Balasa. Chapman & Hall/CRC Press, 2011.
 
 **Editorial**1. Alejandro Díaz-Caro, Ognyan Oreshkov, and Ana Belén Sainz. [Proceedings of the 22nd Conference on Quantum Physics and Logic](https://doi.org/10.4204/EPTCS.426). Electronic Proceedings in Theoretical Computer Science 426, 2025.
 2. Alejandro Díaz-Caro and Vladimir Zamdzhiev. [Proceedings of the 21st International Conference on Quantum Physics and Logic](https://doi.org/10.4204/EPTCS.406). Electronic Proceedings in Theoretical Computer Science 406, 2024.

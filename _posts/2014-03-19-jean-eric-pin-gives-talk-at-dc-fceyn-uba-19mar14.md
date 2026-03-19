@@ -1,15 +1,5 @@
 ---
-id: 601
-title: 'Jean-Eric Pin gives talk at DC, FCEyN, UBA &#8212; 19/Mar/14'
-date: '2014-03-19T15:01:37-03:00'
-author: 'Editorial team'
-excerpt: ''
 layout: post
-guid: 'http://infinis.dc.uba.ar/?p=601'
-permalink: '/?p=601'
-categories:
-    - Uncategorized
-format: false
+title: "Jean-Eric Pin gives talk at DC, FCEyN, UBA &#8212; 19/Mar/14"
 ---
-
 Este Miércoles, 19 de Marzo, a las 17 hs, el Dr. Jean-Eric Pin, del CNRS y Universidad Paris Diderot, dará la charla: "Todo lo que querías saber sobre autómatas y nunca te atreviste a preguntar" Aula E24, Pabellón I Dará una introducción básica a los autómatas finitos y sus aplicaciones. No se necesitan conocimientos previos sobre autómatas para entenderla. Las diapositivas serán en castellano, pero la charla será en inglés. Jean-Eric Pin es director de investigación del CNRs y Universidad Paris Diderot. Es un reconocido especialista en la teoría algebraica de lenguajes y autómatas. Es autor de más de 140 publicaciones incluyendo varios libros, entre ellos "Infinite Words", en co-autoría con Dominique Perrin, publicado en la serie Pure and Applied Mathematics, Elsevier, 2004. Su página web es http://www.liafa.univ-paris-diderot.fr/~jepEste Miércoles, 19 de Marzo, a las 17 hs, el Dr. Jean-Eric Pin, del CNRS y Universidad Paris Diderot, dará la charla: "Todo lo que querías saber sobre autómatas y nunca te atreviste a preguntar" Aula E24, Pabellón I Dará una introducción básica a los autómatas finitos y sus aplicaciones. No se necesitan conocimientos previos sobre autómatas para entenderla. Las diapositivas serán en castellano, pero la charla será en inglés. Jean-Eric Pin es director de investigación del CNRs y Universidad Paris Diderot. Es un reconocido especialista en la teoría algebraica de lenguajes y autómatas. Es autor de más de 140 publicaciones incluyendo varios libros, entre ellos "Infinite Words", en co-autoría con Dominique Perrin, publicado en la serie Pure and Applied Mathematics, Elsevier, 2004. Su página web es http://www.liafa.univ-paris-diderot.fr/~jepEste Miércoles, 19 de Marzo, a las 17 hs, el Dr. Jean-Eric Pin, del CNRS y Universidad Paris Diderot, dará la charla: "Todo lo que querías saber sobre autómatas y nunca te atreviste a preguntar" Aula E24, Pabellón I Dará una introducción básica a los autómatas finitos y sus aplicaciones. No se necesitan conocimientos previos sobre autómatas para entenderla. Las diapositivas serán en castellano, pero la charla será en inglés. Jean-Eric Pin es director de investigación del CNRs y Universidad Paris Diderot. Es un reconocido especialista en la teoría algebraica de lenguajes y autómatas. Es autor de más de 140 publicaciones incluyendo varios libros, entre ellos "Infinite Words", en co-autoría con Dominique Perrin, publicado en la serie Pure and Applied Mathematics, Elsevier, 2004. Su página web es http://www.liafa.univ-paris-diderot.fr/~jep

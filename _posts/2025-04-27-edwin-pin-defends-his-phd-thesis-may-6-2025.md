@@ -1,17 +1,7 @@
 ---
-id: 2030
-title: 'Edwin Pin defends his PhD thesis. May 6, 2025'
-date: '2025-04-27T06:05:47-03:00'
-author: 'Editorial team'
-excerpt: ''
 layout: post
-guid: 'http://www.irp-sinfin.org/?p=2030'
-permalink: '/?p=2030'
-categories:
-    - Uncategorized
-format: false
+title: "Edwin Pin defends his PhD thesis. May 6, 2025"
 ---
-
 **Edwin Pin** defends his PhD thesis in Mathematics at Universidad de Buenos Aires.
 
 **Title:** Lógicas para razonar sobre grafos con datos / Logics for reasoning on data-graphs
@@ -27,5 +17,5 @@ format: false
 **Jury members:**
 
 - Dr. Magdalena Ortiz (TU Wien, Austria)
-- Dr. Flavia Bonomo (UBA &amp; CONICET)
+- Dr. Flavia Bonomo (UBA & CONICET)
 - Dr. Domagoj Vrgoc (PUC Chile)

@@ -1,15 +1,5 @@
 ---
-id: 472
-title: 'Codebreaker &#8212; Documentary about life and work of Alan Turing &#8212; 10 April 2013, 18hs &#8212; UBA'
-date: '2013-04-01T18:22:15-03:00'
-author: 'Editorial team'
-excerpt: ''
 layout: post
-guid: 'http://www.infinis.org/infinis/?p=472'
-permalink: '/?p=472'
-categories:
-    - news
-format: false
+title: "Codebreaker &#8212; Documentary about life and work of Alan Turing &#8212; 10 April 2013, 18hs &#8212; UBA"
 ---
-
 The Buenos Aires Semester in Computability, Complexity and Randomness organizes, as a special activity, the presentation of the film Codebreaker, the drama documentary about life and work of Alan Turing. There will be a unique function When: April 10, 2013 at 18hs. Where: Aula Magna del Pabellón 2, Facultad de Ciencias Exactas y Naturales, Ciudad Universitaria, Buenos Aires. Film duration 81 minutes. "Codebreaker" has been directed by Clare Beavan and produced by Story Center Productions, Furnace y Channel 4, in 2011. Site at the Facultad de Ciencias Exactas y Naturales, UBA, http://noticias.exactas.uba.ar/codebreaker-en-exactas Site of the film http://www.turingfilm.comThe Buenos Aires Semester in Computability, Complexity and Randomness organizes, as a special activity, the presentation of the film Codebreaker, the drama documentary about life and work of Alan Turing. There will be a unique function When: April 10, 2013 at 18hs. Where: Aula Magna del Pabellón 2, Facultad de Ciencias Exactas y Naturales, Ciudad Universitaria, Buenos Aires. Film duration 81 minutes. "Codebreaker" has been directed by Clare Beavan and produced by Story Center Productions, Furnace y Channel 4, in 2011. Site at the Facultad de Ciencias Exactas y Naturales, UBA, http://noticias.exactas.uba.ar/codebreaker-en-exactas Site of the film http://www.turingfilm.comThe Buenos Aires Semester in Computability, Complexity and Randomness organizes, as a special activity, the presentation of the film Codebreaker, the drama documentary about life and work of Alan Turing. There will be a unique function When: April 10, 2013 at 18hs. Where: Aula Magna del Pabellón 2, Facultad de Ciencias Exactas y Naturales, Ciudad Universitaria, Buenos Aires. Film duration 81 minutes. "Codebreaker" has been directed by Clare Beavan and produced by Story Center Productions, Furnace y Channel 4, in 2011. Site at the Facultad de Ciencias Exactas y Naturales, UBA, http://noticias.exactas.uba.ar/codebreaker-en-exactas Site of the film http://www.turingfilm.com

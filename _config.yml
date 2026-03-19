@@ -11,7 +11,7 @@ header_pages:
   - co-publications.md
   - bilateral-projects.md
   - organization.md
-  - sample-page-2.md
+  - research.md
 
 # Configuración de posteos en la Home
 paginate: 10

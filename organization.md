@@ -1,21 +1,12 @@
 ---
-id: 23
-title: Members
-date: '2011-12-27T07:59:40-03:00'
-author: 'Editorial team'
-excerpt: ''
 layout: page
-guid: 'http://infinis.srbit.net/?page_id=23'
-views:
-    - '34'
-footnotes:
-    - ''
+title: "Members"
+permalink: /organization/
 ---
-
 ## General coordination:
 
 - [Delia Kesner](https://www.irif.fr/~kesner/) (Université Paris-Diderot) 🇫🇷
-- [Santiago Figueira](http://www.glyc.dc.uba.ar/santiago/) (CONICET &amp; Universidad de Buenos Aires) 🇦🇷
+- [Santiago Figueira](http://www.glyc.dc.uba.ar/santiago/) (CONICET & Universidad de Buenos Aires) 🇦🇷
 
 ## Participating teams:
 

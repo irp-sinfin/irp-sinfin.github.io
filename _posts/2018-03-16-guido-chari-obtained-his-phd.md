@@ -1,19 +1,5 @@
 ---
-id: 1030
-title: 'Guido Chari obtained his PhD'
-date: '2018-03-16T21:06:22-03:00'
-author: 'Editorial team'
-excerpt: ''
 layout: post
-guid: 'http://infinis.org/?p=1030'
-permalink: '/?p=1030'
-snap_MYURL:
-    - ''
-snapEdIT:
-    - '1'
-categories:
-    - Uncategorized
-format: false
+title: "Guido Chari obtained his PhD"
 ---
-
 Guido Chari obtained his PhD in Computer Science on December 13, 2017, at Universidad de Buenos Aires under the direction of Diego Garbervetsky (UBA/CONICET) and Stephane Ducasse (INRIA Lile). Guido will continue with a postdoctoral position at the Czech Technical University in Prague, under the direction of Jan Vitek.

@@ -1,17 +1,7 @@
 ---
-id: 903
-title: 'Recent publications of the team &quot;Formal Specification, Verification and Implementation of Concurrent Real-Time Embedded Systems&quot;'
-date: '2017-07-26T19:53:41-03:00'
-author: 'Editorial team'
-excerpt: ''
 layout: post
-guid: 'http://www.infinis.org/?p=903'
-permalink: '/?p=903'
-categories:
-    - Uncategorized
-format: false
+title: "Recent publications of the team &quot;Formal Specification, Verification and Implementation of Concurrent Real-Time Embedded Systems&quot;"
 ---
-
 - Hernan Melgratti and Luca Padovani. "Chaperone Contracts for Higher-Order Sessions". 22nd ACM SIGPLAN International Conference on Functional Programming (ICFP 2017).
 - Diego Garbervetsky, Edgardo Zoppi, and Benjamin Livshits, "Toward Full Elasticity in Distributed Static Analysis: The Case of Callgraph Analysis", acepted for the main track of [ESEC/FSE 2017](<http://esec-fse17.uni- paderborn.de/>).
 - Diego Garbervetsky, Zvonimir Pavlinovic, Michael Barnett, Madanlal Musuvathi, Todd Mytkowicz, and Edgardo Zoppi, "Static Analysis for Optimizing Big Data Queries" acepted for the industrial track of [ESEC/FSE 2017](<http://esec-fse17.uni- paderborn.de/>).

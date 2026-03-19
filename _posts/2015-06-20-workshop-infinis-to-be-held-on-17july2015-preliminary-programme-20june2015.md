@@ -1,27 +1,7 @@
 ---
-id: 726
-title: 'Workshop INFINIS to be held on 17/July/2015 &#8212; Preliminary Programme &#8212; 20/June/2015'
-date: '2015-06-20T13:08:24-03:00'
-author: 'Editorial team'
-excerpt: ''
 layout: post
-guid: 'http://www.infinis.org/?p=726'
-permalink: '/?p=726'
-snap_MYURL:
-    - ''
-snapEdIT:
-    - '1'
-snapTW:
-    - 's:271:"a:1:{i:0;a:9:{s:4:"doTW";s:1:"1";s:10:"SNAPformat";s:15:"%TITLE% - %URL%";s:8:"attchImg";s:1:"0";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:11:"isPrePosted";s:1:"1";s:8:"isPosted";s:1:"1";s:4:"pgID";s:18:"612282509204791296";s:5:"pDate";s:19:"2015-06-20 16:08:27";}}";'
-snap_isAutoPosted:
-    - '1'
-snapFB:
-    - 's:280:"a:1:{i:0;a:9:{s:4:"doFB";s:1:"1";s:8:"postType";s:1:"A";s:10:"AttachPost";s:1:"2";s:10:"SNAPformat";s:51:"New post (%TITLE%) has been published on %SITENAME%";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:11:"isPrePosted";s:1:"1";}}";'
-categories:
-    - Uncategorized
-format: false
+title: "Workshop INFINIS to be held on 17/July/2015 &#8212; Preliminary Programme &#8212; 20/June/2015"
 ---
-
 The workshop will be held at the Departamento de Computación of the FCEyN (UBA) in room E-24 on 17 July. A preliminary schedule follows. Everyone interested is invited to participate! 10:00-10:15 **Sergio Yovine and Eduardo Bonelli**<span style="color: #0000ff;">Opening remarks</span>10:15-10:50 **Diego Figueira (CNRS,LaBRI, France)**<span style="color: #0000ff;">Logics for words and trees with data</span>10:50-11:25 **Flavia Bonomo (UBA,CONICET)**<span style="color: #0000ff;">Three-colouring graphs without triangles or induced paths on seven vertices</span>11:25-11:40 **Coffee break**11:40-12:15 **Alejandro Díaz-Caro (UNQ)**<span style="color: #0000ff;">Projective quantum measurement in the lambda calculus</span>12:15-12:50 **Beta Ziliani (FAMAF, CONICET)**<span style="color: #0000ff;">Interactive Typed Tactic Programming in the Coq Proof Assistant</span>12:50-14:00 **Lunch**14:00-14:35 **Eda Cesaratto (Instituto del Desarrollo Humano, Universidad Nacional de General Sarmiento and CONICET)**<span style="color: #0000ff;">Metrical versions of the Two Distances Theorem</span>14:35-15:10 **Thibaut Balabonski (INRIA, U. Paris Sud)**<span style="color: #0000ff;">Low-level C code optimisations: are they valid?</span>15:10-15:25 **Coffee break**15:25-16:00 **Juan Pablo Galleoti (UBA, CONICET)**<span style="color: #0000ff;">Towards An Evolutionary Approach to Unit-Level Invariant Discovery</span>16:00-16:15 **Sergio Yovine and Eduardo Bonelli** <span style="color: #0000ff;">Closing remarks</span>
 
 ## -------------------------------------------------------------------------------------------------------------- Abstracts of talks:

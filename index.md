@@ -1,7 +1,6 @@
 ---
-layout: home
+layout: page
+title: "Untitled"
+permalink: /
 ---
-
 # International Research Project SINFIN
-
-Bienvenido al sitio del IRP SINFIN. Aquí encontrarás información sobre nuestros proyectos y publicaciones.

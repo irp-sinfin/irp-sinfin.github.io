@@ -1,18 +1,7 @@
 ---
-id: 552
-title: 'LIA INFINIS Workshop &#8212; UBA &#8212; 14/Nov/2013'
-date: '2013-10-30T14:44:42-03:00'
-author: 'Editorial team'
-excerpt: ''
 layout: post
-guid: 'http://infinis.dc.uba.ar/?p=552'
-permalink: '/?p=552'
-categories:
-    - Events
-    - news
-format: false
+title: "LIA INFINIS Workshop &#8212; UBA &#8212; 14/Nov/2013"
 ---
-
 LIA INFINIS Workshop is scheduled to take place at the Departamento de Computación, FCEyN, UBA on 14 November 2013. The room is aula 5 and it will start at 9:45. The program is included below. You are welcome to attend
 
 |  | Speaker | Affiliation | Title |

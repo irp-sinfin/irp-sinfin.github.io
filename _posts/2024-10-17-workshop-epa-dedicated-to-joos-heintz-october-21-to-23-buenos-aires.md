@@ -1,17 +1,7 @@
 ---
-id: 1986
-title: 'Workshop EPA! dedicated to Joos Heintz. October 23 and 24, Buenos Aires'
-date: '2024-10-17T04:10:30-03:00'
-author: 'Editorial team'
-excerpt: ''
 layout: post
-guid: 'http://www.irp-sinfin.org/?p=1986'
-permalink: '/?p=1986'
-categories:
-    - Uncategorized
-format: false
+title: "Workshop EPA! dedicated to Joos Heintz. October 23 and 24, Buenos Aires"
 ---
-
 The workshop is in Spanish.
 
 **Workshop EPA! (Entropy and Probabilistic Analysis of Algorithms)**

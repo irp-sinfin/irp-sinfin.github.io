@@ -1,15 +1,8 @@
 ---
-id: 7
-title: Research
-date: '2011-12-27T15:33:30-03:00'
-author: 'Editorial team'
-excerpt: ''
 layout: page
-guid: 'http://infinis.srbit.net/?page_id=2'
-views:
-    - '35'
+title: "Research"
+permalink: /research/
 ---
-
 ## Problem Domain
 
 <div align="justify">Modern software systems, such as those found in the Avionics Industry, the Automobile Industry, the Chemical Industry, Telecommunications, Consumer Electronics, Banking, etc. are highly critical from a socioeconomic standpoint both in terms of their use and of their design, maintenance and evolution. These systems share the characteristic of having to respect both functional and quantitative requirements in addition to their intended use. Examples of such requirements include specific execution times and energy consumption rates. Requirements compliance may depend on a number of factors including processor speed, bandwidth, battery capacity, resource availability, etc. Violation of these requirements entails, at the least, degraded service provision. It may also induce serious failures that can produce irreparable damage. The increased **complexity** of systems where the software component plays a preponderant role, poses numerous technical problems in all cycles of software development: requirements analysis, specification, design, deployment, integration, coding and validation. In this general context, it is becoming increasingly difficult to grasp the global behavior of a system with current tools (languages, models, theories, methodologies, EDI, etc). It is therefore imperative to foster new directions in state-of-the-art tools and models, both in terms of foundations and technologies. Innovative methods and tools should be sought for, that allow a means of addressing the inherent complexity of these systems. There are many factors that contribute towards the complexity of software systems. A non-exhaustive list follows: - - **The large number and heterogeneity of the constituent components**. In the process of engineering complex systems there is a need for applying knowledge arising from different areas. As a consequence, the structure, functionality and properties of the tools and models resting on existing theories and industrial practices become increasingly difficult to apply.

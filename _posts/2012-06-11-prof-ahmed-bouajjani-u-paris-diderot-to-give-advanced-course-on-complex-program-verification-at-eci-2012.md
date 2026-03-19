@@ -1,15 +1,5 @@
 ---
-id: 288
-title: 'Prof. Ahmed Bouajjani (U. Paris-Diderot) to give advanced course on complex program verification at ECI 2012'
-date: '2012-06-11T16:54:43-03:00'
-author: 'Editorial team'
-excerpt: ''
 layout: post
-guid: 'http://www.infinis.org/infinis/?p=288'
-permalink: '/?p=288'
-categories:
-    - news
-format: false
+title: "Prof. Ahmed Bouajjani (U. Paris-Diderot) to give advanced course on complex program verification at ECI 2012"
 ---
-
 <span style="color: #222222; font-family: arial, sans-serif;">Ahmed Bouajjani, Profesor at Paris-Diderot, member of INFINIS, will give an advance course on complex program verification at ECI 2012. [http://www.dc.uba.ar/<wbr>events/eci/2012/cursos/<wbr>bouajjani</wbr></wbr>](http://www.dc.uba.ar/events/eci/2012/cursos/bouajjani)</span><div><span style="color: #222222; font-family: arial, sans-serif;"></span></div>Ahmed Bouajjani, Profesor at Paris-Diderot, member of INFINIS, will give an advance course on complex program verification at ECI 2012. [http://www.dc.uba.ar/<wbr>events/eci/2012/cursos/<wbr>bouajjani</wbr></wbr>](http://www.dc.uba.ar/events/eci/2012/cursos/bouajjani)Ahmed Bouajjani, Profesor at Paris-Diderot, member of INFINIS, will give an advance course on complex program verification at ECI 2012. [http://www.dc.uba.ar/<wbr>events/eci/2012/cursos/<wbr>bouajjani</wbr></wbr>](http://www.dc.uba.ar/events/eci/2012/cursos/bouajjani)

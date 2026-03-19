@@ -1,17 +1,7 @@
 ---
-id: 1902
-title: 'Mini workshop SINFIN 2024'
-date: '2024-03-15T10:11:10-03:00'
-author: 'Editorial team'
-excerpt: ''
 layout: post
-guid: 'http://www.irp-sinfin.org/?p=1902'
-permalink: '/?p=1902'
-categories:
-    - Uncategorized
-format: false
+title: "Mini workshop SINFIN 2024"
 ---
-
 On the occasion of the visit of Delia Kesner, director from the French side of SINFIN, and Olivier Carton, from the Randomness and Analysis of Algorithms team, we have organised this mini-workshop on Monday, March 11, 2024, with the following program.
 
 **18.00-18.30 - Team: [Logics and Dynamics of Programming Languages](https://sinfin-ldpl.github.io/)**  

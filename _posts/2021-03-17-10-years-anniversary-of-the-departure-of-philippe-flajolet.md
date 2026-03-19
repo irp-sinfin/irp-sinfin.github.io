@@ -1,17 +1,7 @@
 ---
-id: 1644
-title: 'Philippe Flajolet'
-date: '2021-03-17T14:51:21-03:00'
-author: 'Editorial team'
-excerpt: ''
 layout: post
-guid: 'http://www.lia-sinfin.org/?p=1644'
-permalink: '/?p=1644'
-categories:
-    - Uncategorized
-format: false
+title: "Philippe Flajolet"
 ---
-
 The following is an English translation of the announcement which will appear in the ‘’Carnets’’ of the French Journal ''le Monde'', in the Section ‘’Mémoire’’
 
 %%%%%%%%%%%%%%

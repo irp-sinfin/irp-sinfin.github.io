@@ -1,24 +1,14 @@
 ---
-id: 2032
-title: 'Carlos Miguel Soto to defend his licenciatura thesis at UBA &#8211; May 6, 2025'
-date: '2025-04-30T05:41:00-03:00'
-author: 'Editorial team'
-excerpt: ''
 layout: post
-guid: 'http://www.irp-sinfin.org/?p=2032'
-permalink: '/?p=2032'
-categories:
-    - Uncategorized
-format: false
+title: "Carlos Miguel Soto to defend his licenciatura thesis at UBA &#8211; May 6, 2025"
 ---
-
 <div class="wp-block-group">[**Carlos Miguel Soto**](https://reedef.dev) defends his *licenciatura* thesis (eq M2) in Computer Science at Universidad de Buenos Aires.
 
 **Date:** Tuesday, 6 May 2025  
 **Time:** 11:00 AM  
 **Location:** Pabellón 0+INF, Room to be confirmed
 
-**Thesis advisor**: Alejandro Díaz-Caro (Centre Inria de l'Université de Lorraine &amp; Universidad Nacional de Quilmes)
+**Thesis advisor**: Alejandro Díaz-Caro (Centre Inria de l'Université de Lorraine & Universidad Nacional de Quilmes)
 
 **Jury members:**
 

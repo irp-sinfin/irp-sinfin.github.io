@@ -1,21 +1,7 @@
 ---
-id: 1247
-title: 'Pablo ROTONDO defended his PhD thesis, September 2018'
-date: '2018-10-21T11:35:55-03:00'
-author: 'Editorial team'
-excerpt: ''
 layout: post
-guid: 'http://infinis.org/?p=1247'
-permalink: '/?p=1247'
-snap_MYURL:
-    - ''
-snapEdIT:
-    - '1'
-categories:
-    - Uncategorized
-format: false
+title: "Pablo ROTONDO defended his PhD thesis, September 2018"
 ---
-
 **<span class="lG">Pablo</span> <span class="lG">ROTONDO</span>** successfully defended his PhD thesis on September 27th, 2018, at Université Paris-Diderot. Title: **Probabilistic studies in Number Theory and Word Combinatorics: instances of dynamical analysis** Directors: - Brigitte VALLÉE, Université de Caen, France
 - Valérie BERTHÉ, IRIF, Université Paris-Diderot, France
 - Alfredo VIOLA, Universidad de la República, Uruguay

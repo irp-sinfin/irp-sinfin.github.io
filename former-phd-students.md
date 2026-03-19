@@ -1,13 +1,8 @@
 ---
-id: 1682
-title: 'Former PhD Students'
-date: '2021-10-17T14:33:47-03:00'
-author: 'Alejandro Díaz-Caro'
-excerpt: ''
 layout: page
-guid: 'http://www.lia-sinfin.org/?page_id=1682'
+title: "Former PhD Students"
+permalink: /former-phd-students/
 ---
-
 On this page we list the PhD Students that had prepeare their thesis under INFINIS and SINFIN.
 
 ## 2020
@@ -17,7 +12,7 @@ Subject: Lambda calculus
 Thesis title: Dynamic semantics of calculi with explicit substitutions at a distance  
 *Facultad de Ciencias Exactas y Naturales. Universidad de Buenos Aires. CONICET doctoral fellowship*   
 Date of defense: November 20, 2020  
-Advisors: Eduardo Bonelli &amp; Delia Kesner  
+Advisors: Eduardo Bonelli & Delia Kesner  
 Current employment situation (updated 2021): CONICET Assistant Researcher, starting 2022.
 
 **Andrés Ezequiel Viso**  
@@ -25,7 +20,7 @@ Subject: Lambda calculus
 Thesis title: Un estudio semántico sobre extensiones avanzadas del λ-cálculo: patrones y operadores de control.  
 *Facultad de Ciencias Exactas y Naturales. Universidad de Buenos Aires. CONICET doctoral fellowship*   
 Date of defense: July 22, 2020  
-Advisors: Eduardo Bonelli &amp; Delia Kesner  
+Advisors: Eduardo Bonelli & Delia Kesner  
 Current employment situation (updated 2021): Postdoc at Software Heritage, France.
 
 **Nina Pardal**  
@@ -33,7 +28,7 @@ Subject: Graph theory
 Thesis title: Structural characterization of some problems on circle and interval graphs.   
 *Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires - LIPN, Université Sorbonne Paris Nord. CONICET doctoral fellowship.*  
 Date of defense: March 30, 2020  
-Advisors: Guillermo Durán &amp; Mario Valencia-Pabon.   
+Advisors: Guillermo Durán & Mario Valencia-Pabon.   
 Current employment situation (updated 2021): CONICET Postdoctoral fellow.
 
 ## 2018
@@ -53,7 +48,7 @@ Subject: Randomness for infinite sequences
 Thesis title: Finite state randomness  
 *Universidad Nacional del Sur. CONICET doctoral fellowship*  
 Date of defense: November 6, 2017  
-Advisors: Verónica Becher &amp; Pablo Fillottrani  
+Advisors: Verónica Becher & Pablo Fillottrani  
 Current employment situation (updated 2021): CONICET Assistant Researcher, starting 2022.
 
 **Gabriel Senno**  
@@ -61,7 +56,7 @@ Subject: Quantum computing
 Thesis title: A computer-theoretical outlook on foundations of quantum information  
 *Facultad de Ciencias Exactas y Naturales. Universidad de Buenos Aires. CONICET doctoral fellowship*  
 Date of defense: April 27, 2017  
-Advisors: Santiago Figueira &amp; Ariel Bendersky  
+Advisors: Santiago Figueira & Ariel Bendersky  
 Current employment situation (updated 2021): Postdoc at ICFO, Barcelona, Spain.
 
 **Sergio Abriola**  
@@ -77,9 +72,9 @@ Current employment situation (updated 2021): CONICET Assistant Researcher and JT
 **Carlos Lombardi**  
 Subject: Lambda calculus  
 Thesis title: Espaces de réductions dans les systèmes de réécriture non-séquentiels et les systèmes de réécriture infinitaires  
-*Facultad de Ciencias Exactas y Naturales. Universidad de Buenos Aires &amp; Université Paris-Diderot*  
+*Facultad de Ciencias Exactas y Naturales. Universidad de Buenos Aires & Université Paris-Diderot*  
 Date of defense: November 7, 2014  
-Advisors: Alejandro Ríos &amp; Delia Kesner  
+Advisors: Alejandro Ríos & Delia Kesner  
 Current employment situation (updated 2021): Professor at UNaHur and Senior Developer at Mediatica S.p.A.
 
 **Pablo Ariel Heiber**  
