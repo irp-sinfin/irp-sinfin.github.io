@@ -12,10 +12,30 @@ permalink: /organization/
 
 ### **Logics and Dynamics of Programming Languages ([Team website](https://sinfin-ldpl.github.io))**
 
-Lead researchers: [Pablo Barenbaum](https://foones.github.io/) 🇦🇷 [Alejandro Díaz-Caro](https://members.loria.fr/ADiazCaro/) 🇫🇷 ### **Randomness and Analysis of Algorithms ([Team website](https://raofa-sinfin.greyc.fr/))**
+Lead researchers:
 
-Lead researchers: [Veronica Becher](https://www-2.dc.uba.ar/staff/becher/) 🇦🇷 [Loïck Lhote](https://lhote.users.greyc.fr/web/) 🇫🇷 ### **Theory of Structured Data ([Team website](https://sites.google.com/view/theoryofstructureddata-sinfin/home))**
+ [Pablo Barenbaum](https://foones.github.io/) 🇦🇷
 
-Lead researchers: [Raúl Fervari](https://rfervari.github.io/) 🇦🇷 [Diego Figueira](http://www.labri.fr/perso/dfigueir/) 🇫🇷 ### **Graph Theory and Combinatorial Optimization ([Team website](https://www-2.dc.uba.ar/grupinv/grafos/sinfin.htm))**
+ [Alejandro Díaz-Caro](https://members.loria.fr/ADiazCaro/) 🇫🇷 
 
-Lead researchers: [Flavia Bonomo](https://www-2.dc.uba.ar/staff/fbonomo/) 🇦🇷 [Mario Valencia Pabon](https://www-lipn.univ-paris13.fr/~valencia/) 🇫🇷
+### **Randomness and Analysis of Algorithms ([Team website](https://raofa-sinfin.greyc.fr/))**
+
+Lead researchers: 
+
+ [Veronica Becher](https://www-2.dc.uba.ar/staff/becher/) 🇦🇷 
+
+ [Loïck Lhote](https://lhote.users.greyc.fr/web/) 🇫🇷 
+
+### **Theory of Structured Data ([Team website](https://sites.google.com/view/theoryofstructureddata-sinfin/home))**
+
+Lead researchers: 
+
+ [Raúl Fervari](https://rfervari.github.io/) 🇦🇷
+ [Diego Figueira](http://www.labri.fr/perso/dfigueir/) 🇫🇷 
+
+### **Graph Theory and Combinatorial Optimization ([Team website](https://www-2.dc.uba.ar/grupinv/grafos/sinfin.htm))**
+
+Lead researchers: 
+
+ [Flavia Bonomo](https://www-2.dc.uba.ar/staff/fbonomo/) 🇦🇷
+ [Mario Valencia Pabon](https://www-lipn.univ-paris13.fr/~valencia/) 🇫🇷
