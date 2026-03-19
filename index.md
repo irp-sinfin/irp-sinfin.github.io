@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: default 
 title: "SINFIN"
+paginate: 10
 ---
 # International Research Project SINFIN
 ### Systèmes, vérification, informatique fondamentale, logique, langages
