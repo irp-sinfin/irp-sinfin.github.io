@@ -3,8 +3,7 @@ layout: home
 title: "Home"
 ---
 
-# International Research Project SINFIN
-### Systems, Verification, Fundamental Computer Science, Logic, Languages
+## Latest news
 
 <div class="posts">
   {% for post in site.posts limit:10 %}

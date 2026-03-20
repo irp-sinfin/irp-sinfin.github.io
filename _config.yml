@@ -9,10 +9,10 @@ remote_theme: jekyll/minima
 header_pages:
   - index.md
   - history.md
+  - research.md
   - co-publications.md
   - bilateral-projects.md
   - organization.md
-  - research.md
 
 # Configuración de posteos en la Home
 # Configuración de posteos en la Home
