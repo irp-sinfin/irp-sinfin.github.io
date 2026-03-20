@@ -7,6 +7,7 @@ remote_theme: jekyll/minima
 
 # Orden de las pestañas en el menú
 header_pages:
+  - index.md
   - history.md
   - co-publications.md
   - bilateral-projects.md
@@ -21,4 +22,3 @@ paginate_path: "/page:num/" # Esto es mejor para evitar conflictos
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-paginate # Asegurate de que esta línea esté aquí
