@@ -1,38 +1,32 @@
 ---
-layout: home 
-title: "SINFIN"
-paginate: 10
+layout: default
+title: "Home"
 ---
+
 # International Research Project SINFIN
-### Systèmes, vérification, informatique fondamentale, logique, langages
-### Sistemas, lógica, lenguajes, fundamentos de la computación, verificación
+### Systems, Verification, Fundamental Computer Science, Logic, Languages
 
-<!-- This loops through the paginated posts -->
-{% for post in site.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="date">{{ post.date }}</span>
-  </p>
-  <div class="content">
-    {{ post.content }}
-  </div>
-{% endfor %}
+<div class="posts">
+  {% for post in site.posts limit:10 %}
+    <article class="post" style="margin-bottom: 40px; border-bottom: 1px solid #eee; padding-bottom: 20px;">
+      <header class="post-header">
+        <h1 class="post-title">
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h1>
+        <p class="post-meta" style="color: #666;">{{ post.date | date: "%b %-d, %Y" }}</p>
+      </header>
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      Previous
-    </a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">
-    Page: {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
+      <div class="post-content">
+        {{ post.content }}
+      </div>
+    </article>
+  {% endfor %}
+</div>
+
+<hr />
+
+<div style="text-align: center; margin: 40px 0; padding: 20px; background: #fdfdfd; border: 1px solid #eee; border-radius: 5px;">
+  <h3>Looking for older posts?</h3>
+  <p>You can browse all our previous news and events in the full archive.</p>
+  <a href="{{ '/archive/' | relative_url }}" style="display: inline-block; padding: 10px 20px; background: #2a7ae2; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View Full Archive</a>
 </div>
