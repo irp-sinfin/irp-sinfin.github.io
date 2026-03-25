@@ -1,9 +1,6 @@
 description: "Systèmes, vérIfication, iNformatique Fondamentale, logIque, laNgages"
 url: "https://irp-sinfin.github.io"
 baseurl: ""
-minima:
-  custom_css:
-    - custom
 
 
 remote_theme: jekyll/minima
