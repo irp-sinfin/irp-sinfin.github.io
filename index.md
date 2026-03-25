@@ -2,15 +2,9 @@
 layout: home 
 title: "Home"
 ---
-<div style="text-align: center; margin: 40px 0;">
   <img src="{{ '/assets/img/2019/02/SINFIN-1.png' | relative_url }}"
        alt="SINFIN Logo"
-       style="max-width: 200px; height: auto; display: block; margin: 0 auto;" />
-  
-  <div style="font-size: 200px; font-weight: bold; margin-top: 10px;">
-    INTERNATIONAL RESEARCH PROJECT SINFIN
-  </div>
-</div>
+       style="max-width: 300px; height: auto; display: block; margin: 0 auto;" />
 
 ## Latest news
 
