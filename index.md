@@ -1,10 +1,7 @@
 ---
-layout: home 
-title: "Home"
+layout: home
+ "Home"
 ---
-  <img src="{{ '/assets/img/2019/02/SINFIN-1.png' | relative_url }}"
-       alt="SINFIN Logo"
-       style="max-width: 300px; height: auto; display: block; margin: 0 auto;" />
 
 ## Latest news
 
@@ -17,7 +14,6 @@ title: "Home"
         </h1>
         <p class="post-meta" style="color: #666;">{{ post.date | date: "%b %-d, %Y" }}</p>
       </header>
-
       <div class="post-content">
         {{ post.content }}
       </div>

@@ -1,23 +1,23 @@
-title: "International Research Project SINFIN"
 description: "Systèmes, vérIfication, iNformatique Fondamentale, logIque, laNgages"
 url: "https://irp-sinfin.github.io"
 baseurl: ""
+minima:
+  custom_css:
+    - custom
+
 
 remote_theme: jekyll/minima
 
-# Orden de las pestañas en el menú
 header_pages:
   - index.md
   - history.md
-  - research.md
   - co-publications.md
   - bilateral-projects.md
-  - organization.md
+  - organization.md   
+  - research.md
 
-# Configuración de posteos en la Home
-# Configuración de posteos en la Home
 paginate: 10
-paginate_path: "/page:num/" # Esto es mejor para evitar conflictos
+paginate_path: "/page:num/"
 
 plugins:
   - jekyll-feed
